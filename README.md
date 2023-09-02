@@ -1,4 +1,6 @@
 # crud-spring
 
 
-# Api RESTUL  
+# Api RESTFFUL  
+
+Criando um crud de produtos.
